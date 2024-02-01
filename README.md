@@ -42,5 +42,5 @@ To use the Currency Converter:
 This Currency Converter utilizes a public API to fetch real-time exchange rates and flags. The API used in this project is [Fixer](https://fixer.io/). You may need to sign up for an API key and replace the placeholder in the `script.js` file.
 
 ```javascript
-const flag API = 'https://flagsapi.com/${countrCode}/flat/64.png;
-const Currency API = `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usa/inr.json`;
+flag API = 'https://flagsapi.com/${countrCode}/flat/64.png;
+Currency API = `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usa/inr.json`;
